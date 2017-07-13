@@ -1,8 +1,9 @@
+package com.anhvurz90.practice.misc;
 
-rt java.io.*;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Scanner;
 
-public class Solution {
+public class AlmostSorted {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
